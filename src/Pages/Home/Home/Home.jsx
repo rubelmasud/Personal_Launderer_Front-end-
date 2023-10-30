@@ -3,7 +3,7 @@ import Elementor from "../ElementorSection/Elementor";
 import Facilities from "../FacilitiesSection/Facilities";
 import RoomManagement from "../Services/RoomManagement";
 import YarpacomLaundryServices from "../Services/YarpacomLaundryServices";
-import LaundryControl from "../Services/laundryControl";
+import LaundryControl from "../Services/LaundryControl";
 
 const Home = () => {
   return (
