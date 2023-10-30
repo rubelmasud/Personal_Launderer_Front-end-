@@ -5,6 +5,7 @@ import RoomManagement from "../Services/RoomManagement";
 import YarpacomLaundryServices from "../Services/YarpacomLaundryServices";
 import LaundryControl from "../Services/LaundryControl";
 import LaundryService from "../Services/LaundryService";
+import Testimonials from "../UserRatings/Testimonials";
 
 const Home = () => {
   return (
@@ -16,6 +17,7 @@ const Home = () => {
       <LaundryControl />
       <Elementor />
       <Facilities />
+      <Testimonials />
     </div>
   );
 };
