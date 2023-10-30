@@ -1,6 +1,6 @@
 import LaundryServicesImg from "../../../assets/Images/room management.jpeg";
 
-const LaundryServices = () => {
+const LaundryService = () => {
   return (
     <div className="md:flex  pl-12 pr-6 justify-center items-center bg-[#fff]">
       <div className="my-10">
@@ -27,4 +27,4 @@ const LaundryServices = () => {
   );
 };
 
-export default LaundryServices;
+export default LaundryService;
